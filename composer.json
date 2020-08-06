@@ -1,0 +1,19 @@
+{
+  "name": "slytherincz/api-client-contracts",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Karel Mladý",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"SlytherinCz\\": "src/"}
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
